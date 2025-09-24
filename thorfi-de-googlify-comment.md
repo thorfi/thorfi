@@ -62,3 +62,11 @@ Unfortunately that does comes at a cost of being inside their walled garden, and
   - <https://duckduckgo.com/duckduckgo-help-pages/results/translation>
   - <https://duckduckgo.com/about>
 
+### YouTube
+
+FYI this is genuinely hard to replace as a viewer because content creators do not
+always multi-platform their content due to many time and money reasons.
+
+- suggestions welcome
+- Vimeo - details to come
+  - <https://vimeo.com/>

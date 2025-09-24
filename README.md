@@ -3,7 +3,7 @@
 - Software Designer and Developer.
 - Systems Integrator and Administrator.
 - Unix, Internet, Cloud and Open Source Applications Specialist.
-- The above is summed up these days in the shorter job title: `Cloud DevOps`.
+- The above is summed up these days in the shorter job title: `Cloud DevOps Specialist`
 - My professional page is here: <https://goh.id.au/~david/>
 - My public list of contacts is here: [Thorfi's Contact Details](thorfi-contact-details.md)
 
