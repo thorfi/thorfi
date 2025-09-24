@@ -1,14 +1,15 @@
-# Who Am I
+# Who Is Thorfi
 
 - Software Designer and Developer.
 - Systems Integrator and Administrator.
 - Unix, Internet, Cloud and Open Source Applications Specialist.
-- The above is perhaps summed up these days in the shorter job title: `Cloud DevSecOps`.
+- The above is summed up these days in the shorter job title: `Cloud DevOps`.
 - My professional page is here: <https://goh.id.au/~david/>
+- My public list of contacts is here: [Thorfi's Contact Details](thorfi-contact-details.md)
 
-# Some Technical Comments aimed for the general public
+# Thorfi's Comments for non-technical folks
 
 - [Thorfi's Password Manager comment](thorfi-password-manager-comment.md)
-- Thorfi's De-Googlify Comment - Coming Soon `[under construction gif not inserted here]`
-- Thorfi's VPNs Comment - Coming Next `[under construction gif not inserted here]`
-- Thorfi's Tech Security Comment - Coming Eventually `[under construction gif not inserted here]`
+- [Thorfi's De-Googlify Comment](thorfi-de-googlify-comment.md) - partially written - `[imagine under construction gif here]`
+- Thorfi's VPNs What Why Who Comment - Coming Soon
+- Thorfi's Securing Your Tech Comment - Coming Eventually
