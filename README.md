@@ -4,7 +4,7 @@
 - Systems Integrator and Administrator.
 - Unix, Internet, Cloud and Open Source Applications Specialist.
 - The above is perhaps summed up these days in the shorter job title: `Cloud DevSecOps`.
-- My professional page is here: https://goh.id.au/~david/
+- My professional page is here: <https://goh.id.au/~david/>
 
 # Some Technical Comments aimed for the general public
 

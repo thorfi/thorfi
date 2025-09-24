@@ -1,4 +1,4 @@
-# Password Manager Standard Comment - Last updated Jan 2025 - thorfi
+# Password Manager Comment by thorfi - Last updated Jan 2025
 
 I have been strongly recommending 1Password for many years (I do tech security as a part of my professional work).
 
@@ -18,23 +18,23 @@ P.S.: I used to recommend LastPass but they have had severe security breaches in
 ## Links:
 
 1Password
-- https://blog.1password.com/how-1password-protects-your-data/
-- https://1password.com/switch/
+- <https://blog.1password.com/how-1password-protects-your-data/>
+- <https://1password.com/switch/>
 
 Dashlane
-- https://support.dashlane.com/hc/en-us/articles/360012686840-FAQ-about-security-at-Dashlane
-- https://dashlane.com/
+- <https://support.dashlane.com/hc/en-us/articles/360012686840-FAQ-about-security-at-Dashlane>
+- <https://dashlane.com/>
 
 Bitwarden
-- https://bitwarden.com/help/security-faqs/
-- https://bitwarden.com/
+- <https://bitwarden.com/help/security-faqs/>
+- <https://bitwarden.com/>
 
 Apple Passwords / iCloud Keychain / iCloud Password
-- https://support.apple.com/en-au/120758
-- https://support.apple.com/en-us/HT204085
-- https://support.apple.com/en-au/guide/icloud-windows/icw76039ec0f/1.0/icloud/1.0
+- <https://support.apple.com/en-au/120758>
+- <https://support.apple.com/en-us/HT204085>
+- <https://support.apple.com/en-au/guide/icloud-windows/icw76039ec0f/1.0/icloud/1.0>
 
 KeePass
-- https://keepassxc.org/
-- https://keepass.info/download.html
+- <https://keepassxc.org/>
+- <https://keepass.info/download.html>
 
