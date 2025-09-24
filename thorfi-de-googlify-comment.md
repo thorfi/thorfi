@@ -4,7 +4,7 @@ Background: Google is an advertising company. They make the vast majority of the
 
 First I will list Search replacement, then Chrome replacements, then go through the other services you probably want to replace.
 
-For the last item there are two major approaches I recommend - just switch to Apple iCloud, or replace individual services.
+For the last item there are two major approaches I recommend - just switch to Apple iCloud, or replace individual services. Microsoft 365 is also an option but it is not for the casual end user.
 
 I will also give a short description of the company providing the service and then links.
 
@@ -43,6 +43,12 @@ Unfortunately that does comes at a cost of being inside their walled garden, and
 
 - [Set up iCloud on all your devices](https://support.apple.com/en-au/guide/icloud/mmfc0f1e2a/icloud)
 - [How to turn on Advanced Data Protection for iCloud](https://support.apple.com/en-au/108756)
+
+## Replace Gmail/Gcal/Gdrive with Microsoft services
+
+Microsoft are actually good about privacy and security - but they are very Enterprise/Corporate focused, and not very good at writing documentation for non-technical people. Even their documentation for technical people is often not great.
+
+- details to come
 
 ## Replace individual services
 
