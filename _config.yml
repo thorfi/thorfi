@@ -1,7 +1,0 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-    - jekyll-remote-theme
-title: Thorfi's Comments
-tagline: Thorfi and their Comments
-description: Thorfi, Thorfi's Contact Details, and Thorfi's Comments for non-technical folks
-show_downloads: false
