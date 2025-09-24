@@ -1,11 +1,11 @@
 # Who Is Thorfi
 
-- Software Designer and Developer.
-- Systems Integrator and Administrator.
-- Unix, Internet, Cloud and Open Source Applications Specialist.
-- The above is summed up these days in the shorter job title: `Cloud DevOps Specialist`
-- My professional page is here: <https://goh.id.au/~david/>
-- My public list of contacts is here: [Thorfi's Contact Details](thorfi-contact-details.md)
+- Software Designer and Developer
+- Systems Integrator and Administrator
+- Unix, Internet, Cloud and Open Source Applications Specialist
+- The above is summed up these days in the shorter job title: `Cloud DevSecOps Specialist`
+- My professional page is here: [David Goh - https://goh.id.au/~david/](https://goh.id.au/~david/)
+- My public list of contact details is here: [Thorfi's Contact Details](thorfi-contact-details.md)
 
 # Thorfi's Comments for non-technical folks
 
