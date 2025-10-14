@@ -6,7 +6,9 @@ First I will list Search replacement, then Chrome replacements, then go through 
 
 For the last item there are three major approaches available - switch to Apple iCloud, switch to Microsoft 365, and/or replace individual services.
 
-I will also give a short description of the company providing the service and then relevant links.
+Recommendations (and anti-recommendations) will have a short description of the company providing the service and then relevant links.
+
+I'll also be listing DO NOT recommendations because there are some options out there that I do not recommend due to being just as unethical or even more unethical than Google.
 
 ## Replace Google Search
 
@@ -18,10 +20,16 @@ Most web browsers have a setting where you can select an alternative search prov
 
 ## Replace Google Chrome
 
+Note: If you are using Chrome to manage account passwords, please see [Thorfi's Password Manager comment](thorfi-password-manager-comment.md) for recommendations on replacements.
+
 - Firefox - Mozilla is a not for profit, mostly funded by income from Search Partnerships. The Mozilla Project are where the first major web browser (Netscape) was written, and their mission has always been to support individual accessibility on an open Internet. Lots of good plugin support.
     - <https://www.firefox.com/>
     - <https://www.mozilla.org/en-US/mission/>
     - <https://www.mozilla.org/en-US/foundation/annualreport/2024/article/financing-an-open-internet-mozillas-path-forward/>
+    - Recommended Firefox Plugins:
+      - https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/
+      - https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/
+      - https://addons.mozilla.org/en-GB/firefox/addon/ublock-origin/
 - Safari - Apple is a for profit global mega corporation (HQ in the USA), most income is from hardware sales to end consumers. Only available on macOS / iOS, has good plugin architecture including ad blocking where the plugin does not get access to what you browse, very secure. If you use a Mac / iPhone / iPad this is the best option.
     - <https://www.apple.com/safari/>
     - <https://www.apple.com/compliance/>
@@ -29,9 +37,21 @@ Most web browsers have a setting where you can select an alternative search prov
     - <https://www.opera.com/download>
     - <https://www.opera.com/secure-private-browser>
     - <https://www.opera.com/about>
+    - Recommended Opera Plugins:
+        - <https://addons.opera.com/en/extensions/details/ublock/>
 - DuckDuckGo - For profit company in the USA. They are an advertising company but relatively ethical about it. Does not have browser extensions.
     - <https://duckduckgo.com/app>
     - <https://duckduckgo.com/about>
+- Vivaldi - For profit company in Norway and Iceland. Mostly funded by income from partner deals. Interestingly comes with a mail client.
+    - <https://vivaldi.com/>
+    - <https://vivaldi.com/blog/vivaldi-business-model/>
+    - <https://vivaldi.com/company/>
+
+DO NOT recommend:
+- *NOPE* - Brave - Brave is a privately held company. They are an advertising company but very unethical about it.
+    - They are known to have perpetrated clickjacking (replacing web page URLs with Brave associated affiliate codes) and are very likely to be doing other unethical things with user data. See: <https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/>
+    - Primary ownership is Brendan Eich, who famously lasted nine days as Mozilla's CEO because he refused to apologise for harm caused by his donations to anti-gay-marriage orgs and was extremely dicey and cagey about the future of the company healthcare fund support for non-heterosexual partners. See: <https://www.cnet.com/tech/services-and-software/mozilla-under-fire-inside-the-9-day-reign-of-fallen-ceo-brendan-eich/>
+    - They are also venture capital funded, notably by Peter Thiel amongst others, and the kind description of Peter Thiel is "oligarch". Him and Elon Musk go neck and neck for "worst person in tech" on a regular basis.
 
 ## Replace Google services with Apple iCloud services
 
@@ -39,7 +59,7 @@ Apple is a for profit global mega corporation (HQ in the USA), most income is fr
 
 They have robust security and privacy embedded throughout their entire product suite as a result, including Advanced Data Protection for iCloud where they cannot access your data at all from their side, if you wish to turn that on.
 
-Unfortunately that does come at a cost of being inside their walled garden, and their hardware is a long way from the cheapest option (although their hardware is also supported for the longest time after release by a factor of about three).
+Unfortunately that does come at a cost of being inside their walled garden, and their hardware is a long way from the cheapest option (although their hardware is also supported for the longest time after release by a factor of about two to three).
 
 - [Set up iCloud on all your devices](https://support.apple.com/en-au/guide/icloud/mmfc0f1e2a/icloud)
 - [How to turn on Advanced Data Protection for iCloud](https://support.apple.com/en-au/108756)
@@ -110,6 +130,8 @@ This is a list of other services with replacement recommendations that are not A
 This is genuinely hard to replace as a viewer because content creators do not always multi-platform their content due to time and money reasons. That said, there are alternative platforms where some content creators stream and/or upload their content.
 
 - Suggestions welcome
+- Nebula - details to come
+    - <https://nebula.tv>
 - Twitch - details to come
     - <https://twitch.com/>
 - Vimeo - details to come
