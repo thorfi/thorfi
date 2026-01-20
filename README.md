@@ -9,7 +9,7 @@
 
 # Thorfi's Comments for non-technical folks
 
-- [Thorfi's Password Manager comment](thorfi-password-manager-comment.md)
+- [Thorfi's Password Manager Comment](thorfi-password-manager-comment.md)
 - [Thorfi's De-Googlify Comment](thorfi-de-googlify-comment.md) - partially written - `[imaginary under construction gif here]`
 - Thorfi's Anti-Surveillance Tech Comment - `<marquee>`Coming Soon`</marquee>`
 - Thorfi's Securing Your Tech Comment - `<blink>`Coming Eventually`</blink>`
