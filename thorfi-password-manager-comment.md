@@ -1,19 +1,19 @@
-# Password Manager Comment by thorfi - Last updated Jan 2025
+# Password Manager Comment by thorfi - Last updated Jan 2026
 
 I have been strongly recommending 1Password for many years (I do tech security as a part of my professional work).
 
 In my professional opinion there are four realistic options (that have been around for a long time and have a good reputation and which I have done serious research into) for anyone who is not up to researching the tech and security implications themselves:
 
 - 1Password (best on the security front by a long way, many great features)
-- Dashlane (newest one, but so far reliable, good features)
+- Dashlane (good features, slightly less user friendly)
 - Bitwarden (open source, less user friendly but OK, good personal free tier)
 - Apple Passwords / iCloud Keychain (if you mainly use Apple devices and do not ever intend to change that, does have Windows support via iCloud Password)
 
-For the more technical users you may wish to investigate KeePass (see KeePassXC for desktop, but there are a lot of other options as well for desktop and mobile), but being free open source there are support caveats: The different apps are all maintained by different people; you will need to know some technical stuff; lalala this is an open road motorcycle club; please consider wisely.
+For the more technical users you may wish to investigate KeePass (see KeePassXC for desktop, but there are a lot of other options as well for desktop and mobile), but being free open source there are support caveats: The different apps are all maintained by different people; you will need to know some technical stuff; lalala this is an open road self maintained motorcycle club; please consider wisely.
 
 The other other solution is actually a physical Little Black Book - this is an actual serious possibility recommendation from some serious security professionals as well. It is hard to hack an actual book. But - it is hard to back up, it certainly has a higher risk of loss, and transporting it is a pain, etc.
 
-P.S.: I used to recommend LastPass but they have had severe security breaches in 2022 that have not been well responded to. I recommend moving away from them.
+P.S.: I used to recommend LastPass but they had severe security breaches in 2022 that were not well responded to in an ongoing manner, and they have not redeemed themselves. I recommend moving away from them.
 
 ## Links:
 
