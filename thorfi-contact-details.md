@@ -8,9 +8,9 @@ In descending order of preference:
 - <https://support.apple.com/messages> - thorfi@me.com - Apple Messages
 - <https://discord.com> - thorfi - Discord
 - <mailto:thorfi@me.com> - <thorfi@me.com> - Email
-- <https://mastodon.social> - <a rel="me" href="https://mastodon.social/@thorfi">https://mastodon.social/@thorfi</a>
-- <https://bsky.app> - <https://thorfi.bsky.social> - BlueSky
 - <https://whatsapp.com> - Ask as they still don’t have usernames - WhatsApp
+- <https://bsky.app> - <https://thorfi.bsky.social> - BlueSky
+- <https://mastodon.social> - <a rel="me" href="https://mastodon.social/@thorfi">https://mastodon.social/@thorfi</a> - Mastodon
 - <https://steamcommunity.com> - <https://steamcommunity.com/id/thorfi/> - Steam
 - <https://GitHub.com> - <https://github.com/thorfi> - GitHub
 - <https://facebook.com> - <https://facebook.com/thorfinn> - Facebook
