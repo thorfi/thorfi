@@ -5,11 +5,9 @@
 - Unix, Internet, Cloud and Open Source Applications Specialist
 - The above is summed up these days in the shorter job title: `Cloud DevSecOps Specialist`
 - My professional page is here: [David Goh - https://goh.id.au/~david/](https://goh.id.au/~david/)
-- My public list of contact details is here: [Thorfi's Contact Details](thorfi-contact-details.md)
+- My public list of contact details is here: [Thorfi's Contact Details](contact.md)
 
 # Thorfi's Comments for non-technical folks
 
 - [Thorfi's Password Manager Comment](thorfi-password-manager-comment.md)
 - [Thorfi's De-Googlify Comment](thorfi-de-googlify-comment.md) - partially written - `[imaginary under construction gif here]`
-- Thorfi's Anti-Surveillance Tech Comment - `<marquee>`Coming Soon`</marquee>`
-- Thorfi's Securing Your Tech Comment - `<blink>`Coming Eventually`</blink>`
